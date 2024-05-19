@@ -1,1 +1,0 @@
-from AutoCommand.AutoCommand import *

@@ -1,6 +1,0 @@
-MANIFEST.in
-setup.py
-AutoCommand.egg-info/PKG-INFO
-AutoCommand.egg-info/SOURCES.txt
-AutoCommand.egg-info/dependency_links.txt
-AutoCommand.egg-info/top_level.txt

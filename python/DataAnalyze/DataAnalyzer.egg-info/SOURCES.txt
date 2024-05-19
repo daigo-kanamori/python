@@ -1,7 +1,0 @@
-MANIFEST.in
-setup.py
-DataAnalyzer.egg-info/PKG-INFO
-DataAnalyzer.egg-info/SOURCES.txt
-DataAnalyzer.egg-info/dependency_links.txt
-DataAnalyzer.egg-info/requires.txt
-DataAnalyzer.egg-info/top_level.txt
